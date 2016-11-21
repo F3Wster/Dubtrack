@@ -1,0 +1,19 @@
+/* Imports */
+  /* Required no editing */
+  /* Original, Failchon & from netox005's NB3 style */
+@import url("https://github.netux.ml/css/chatright.css"); /* Chat completely to the right */
+@import url("https://github.netux.ml/css/skynet.css"); /* Netox's bot prefs */
+@import url("https://github.netux.ml/css/animations.css"); /* NB3 animations */
+@import url("https://frosolf.github.io/colorfix.css"); /* Removes double ranking and icons */
+  /* Additions by @heebeejeebees */
+@import url("https://hebgbs.github.io/nullstuff.css"); /* Contributions by @null */
+@import url("https://hebgbs.github.io/pmontop.css"); /* PMs always on top */
+@import url("https://hebgbs.github.io/rainbowstuff.css"); /* Rainbow sliders and progress bars */
+  /* Contributions specific to @frosolf */
+@import url("https://frosolf.github.io/mixercore.css"); /* Chillout Mixer core theme */
+@import url("https://frosolf.github.io/betterchat.css"); /* Better chat (and other fixes + mixer colours) */
+@import url("https://frosolf.github.io/siteimgs.css"); /* Background images (Parted from mixercore) */
+@import url("https://frosolf.github.io/leftvideo.css"); /* Video to the left */
+@import url("https://frosolf.github.io/leftvideosmall.css"); /* Small video: left side mod Credit goes to Hebgbs */
+@import url("https://frosolf.github.io/usrprefs.css"); /* User-specific settings (Better chat improves some of this) */
+  /* Special */
